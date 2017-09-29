@@ -16,6 +16,7 @@ class TextInput extends Component {
 
     return (
       <RNTextInput
+        ref={props.textRef}
         {...props}
         style={style}
         placeholderTextColor={props.style.placeholderTextColor}
