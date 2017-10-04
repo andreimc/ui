@@ -18,7 +18,7 @@
     "react-native-navigation-experimental-compat": "1.0.0",
     "react-native-photo-view": "^1.4.0",
     "react-native-share": "~1.0.19",
-    "react-native-transformable-image": "andreimc/react-native-transformable-image.git#0c50cdf3b1152",
+    "react-native-transformable-image": "andreimc/react-native-transformable-image.git#79c4e4f33be37a17fe0c36241e47bfae1a6130ec",
     "react-native-vector-icons": "^4.4.0",
     "stream": "0.0.2",
     "tinycolor2": "^1.4.1"
