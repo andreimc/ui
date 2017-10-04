@@ -1450,12 +1450,12 @@ react-native-tab-view@^0.0.69:
   dependencies:
     prop-types "^15.5.8"
 
-react-native-transformable-image@andreimc/react-native-transformable-image.git#0429b9c056d3c510f41ed42a3c04a0a9d3f60f36:
+react-native-transformable-image@andreimc/react-native-transformable-image.git#0a68ec4d8a0b20374c71bdbb9047fba4022e22e3:
   version "0.0.20"
-  resolved "https://codeload.github.com/andreimc/react-native-transformable-image/tar.gz/0429b9c056d3c510f41ed42a3c04a0a9d3f60f36"
+  resolved "https://codeload.github.com/andreimc/react-native-transformable-image/tar.gz/0a68ec4d8a0b20374c71bdbb9047fba4022e22e3"
   dependencies:
     prop-types "^15.6.0"
-    react-native-view-transformer andreimc/react-native-view-transformer.git#958cbce90ee9737748ac0f6dbddfb7dbd2b5fa2d
+    react-native-view-transformer andreimc/react-native-view-transformer.git#076a84fa1c6e91dbec51d38d1d6046d522465aa9
 
 react-native-vector-icons@^4.4.0:
   version "4.4.0"
@@ -1465,9 +1465,9 @@ react-native-vector-icons@^4.4.0:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-react-native-view-transformer@andreimc/react-native-view-transformer.git#958cbce90ee9737748ac0f6dbddfb7dbd2b5fa2d:
-  version "0.0.28"
-  resolved "https://codeload.github.com/andreimc/react-native-view-transformer/tar.gz/958cbce90ee9737748ac0f6dbddfb7dbd2b5fa2d"
+react-native-view-transformer@andreimc/react-native-view-transformer.git#076a84fa1c6e91dbec51d38d1d6046d522465aa9:
+  version "0.0.29"
+  resolved "https://codeload.github.com/andreimc/react-native-view-transformer/tar.gz/076a84fa1c6e91dbec51d38d1d6046d522465aa9"
   dependencies:
     prop-types "^15.5.10"
     react-native-gesture-responder "0.1.1"
