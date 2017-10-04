@@ -1360,11 +1360,12 @@ react-native-gesture-responder@0.1.1:
   dependencies:
     react-timer-mixin "^0.13.3"
 
-react-native-lightbox@shoutem/react-native-lightbox#4e58b9b1aca166142d69b161ff511efc3358ff9f:
+"react-native-lightbox@git://github.com/andreimc/react-native-lightbox.git":
   version "0.7.0"
-  resolved "https://codeload.github.com/shoutem/react-native-lightbox/tar.gz/4e58b9b1aca166142d69b161ff511efc3358ff9f"
+  resolved "git://github.com/andreimc/react-native-lightbox.git#5a7ccdc48a714c3c371ed5a00d2c8352c38c8b95"
   dependencies:
-    react-native-view-transformer ldn0x7dc/react-native-view-transformer#f7e028b6566022deac4e523052e74c2c63a4af7e
+    prop-types "^15.6.0"
+    react-native-view-transformer "git://github.com/andreimc/react-native-view-transformer.git"
     react-timer-mixin "^0.13.3"
 
 react-native-linear-gradient@^2.3.0:
@@ -1410,11 +1411,12 @@ react-native-share@~1.0.19:
   version "1.0.21"
   resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-1.0.21.tgz#45cc1c7bae5af8e6e88b77c3bfa23fb88521a354"
 
-react-native-transformable-image@shoutem/react-native-transformable-image#7d15395ec3857571711a12bc08f24f3a96ff1cde:
+"react-native-transformable-image@git://github.com/andreimc/react-native-transformable-image.git":
   version "0.0.19"
-  resolved "https://codeload.github.com/shoutem/react-native-transformable-image/tar.gz/7d15395ec3857571711a12bc08f24f3a96ff1cde"
+  resolved "git://github.com/andreimc/react-native-transformable-image.git#0c50cdf3b115249628cc197795c4a8fe746c7cf0"
   dependencies:
-    react-native-view-transformer ldn0x7dc/react-native-view-transformer#f7e028b6566022deac4e523052e74c2c63a4af7e
+    prop-types "^15.6.0"
+    react-native-view-transformer "git://github.com/andreimc/react-native-view-transformer.git"
 
 react-native-vector-icons@^4.4.0:
   version "4.4.0"
@@ -1424,10 +1426,11 @@ react-native-vector-icons@^4.4.0:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-react-native-view-transformer@ldn0x7dc/react-native-view-transformer#f7e028b6566022deac4e523052e74c2c63a4af7e:
+"react-native-view-transformer@git://github.com/andreimc/react-native-view-transformer.git":
   version "0.0.28"
-  resolved "https://codeload.github.com/ldn0x7dc/react-native-view-transformer/tar.gz/f7e028b6566022deac4e523052e74c2c63a4af7e"
+  resolved "git://github.com/andreimc/react-native-view-transformer.git#5b9982b7a57ce033d7d7ed25a045a0b2b7d524ff"
   dependencies:
+    prop-types "^15.5.10"
     react-native-gesture-responder "0.1.1"
     react-native-scroller "0.0.6"
 
