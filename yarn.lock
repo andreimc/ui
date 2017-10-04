@@ -1441,8 +1441,8 @@ react-native-scroller@0.0.6:
   resolved "https://registry.yarnpkg.com/react-native-scroller/-/react-native-scroller-0.0.6.tgz#dea8c89bd1ca2d2445fbb6b3a90960df6c1767ff"
 
 react-native-share@~1.0.19:
-  version "1.0.21"
-  resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-1.0.21.tgz#45cc1c7bae5af8e6e88b77c3bfa23fb88521a354"
+  version "1.0.22"
+  resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-1.0.22.tgz#55a09f9ecfddacfcb1a6481f511381f094ccb82e"
 
 react-native-tab-view@^0.0.69:
   version "0.0.69"
@@ -1450,11 +1450,12 @@ react-native-tab-view@^0.0.69:
   dependencies:
     prop-types "^15.5.8"
 
-react-native-transformable-image@andreimc/react-native-transformable-image.git#79c4e4f33be37a17fe0c36241e47bfae1a6130ec:
+react-native-transformable-image@andreimc/react-native-transformable-image.git#master:
   version "0.0.19"
-  resolved "https://codeload.github.com/andreimc/react-native-transformable-image/tar.gz/79c4e4f33be37a17fe0c36241e47bfae1a6130ec"
+  resolved "https://codeload.github.com/andreimc/react-native-transformable-image/tar.gz/f5de10c3913a08bd1a53faeaa2bb13ff626fa0c5"
   dependencies:
-    react-native-view-transformer ldn0x7dc/react-native-view-transformer#f7e028b6566022deac4e523052e74c2c63a4af7e
+    prop-types "^15.6.0"
+    react-native-view-transformer andreimc/react-native-view-transformer.git#master
 
 react-native-vector-icons@^4.4.0:
   version "4.4.0"
@@ -1464,9 +1465,9 @@ react-native-vector-icons@^4.4.0:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-react-native-view-transformer@andreimc/react-native-view-transformer.git#5b9982b7a57ce033d7d7ed25a045a0b2b7d524ff:
+react-native-view-transformer@andreimc/react-native-view-transformer.git#master:
   version "0.0.28"
-  resolved "https://codeload.github.com/andreimc/react-native-view-transformer/tar.gz/5b9982b7a57ce033d7d7ed25a045a0b2b7d524ff"
+  resolved "https://codeload.github.com/andreimc/react-native-view-transformer/tar.gz/958cbce90ee9737748ac0f6dbddfb7dbd2b5fa2d"
   dependencies:
     react-native-gesture-responder "0.1.1"
     react-native-scroller "0.0.6"
