@@ -1493,7 +1493,7 @@ export default (variables = defaultThemeVariables) => ({
     navigationBarImage: {
       flex: 1,
       flexGrow: 1,
-      height: NavigationHeader.HEIGHT,
+      height: NAVIGATION_BAR_HEIGHT,
       left: 0,
       solidifyAnimation(driver) {
         return {
