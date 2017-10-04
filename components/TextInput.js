@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { TextInput as RNTextInput } from 'react-native';
+import PropTypes from 'prop-types';
 
 import { connectStyle } from '@shoutem/theme';
 import { connectAnimation } from '@shoutem/animation';
@@ -29,7 +30,7 @@ class TextInput extends Component {
 
 TextInput.propTypes = {
   ...RNTextInput.propTypes,
-  style: React.PropTypes.object,
+  style: PropTypes.object,
 };
 
 const AnimatedTextInput = connectAnimation(TextInput);
