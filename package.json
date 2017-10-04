@@ -17,7 +17,7 @@
     "react-native-linear-gradient": "^2.3.0",
     "react-native-photo-view": "^1.4.0",
     "react-native-share": "~1.0.19",
-    "react-native-transformable-image": "andreimc/react-native-transformable-image.git#master",
+    "react-native-transformable-image": "andreimc/react-native-transformable-image.git#0429b9c056d3c510f41ed42a3c04a0a9d3f60f36",
     "react-native-vector-icons": "^4.4.0",
     "react-navigation": "^1.0.0-beta.13",
     "stream": "0.0.2",
