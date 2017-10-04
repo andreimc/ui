@@ -13,7 +13,7 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
     "qs": "^6.5.1",
-    "react-native-lightbox": "git://github.com/andreimc/react-native-lightbox.git",
+    "react-native-lightbox": "^0.7.0",
     "react-native-linear-gradient": "^2.3.0",
     "react-native-navigation-experimental-compat": "1.0.0",
     "react-native-photo-view": "^1.4.0",
