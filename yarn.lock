@@ -1411,9 +1411,9 @@ react-native-share@~1.0.19:
   version "1.0.21"
   resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-1.0.21.tgz#45cc1c7bae5af8e6e88b77c3bfa23fb88521a354"
 
-"react-native-transformable-image@git://github.com/andreimc/react-native-transformable-image.git":
+react-native-transformable-image@andreimc/react-native-transformable-image.git#0c50cdf3b1152:
   version "0.0.19"
-  resolved "git://github.com/andreimc/react-native-transformable-image.git#0c50cdf3b115249628cc197795c4a8fe746c7cf0"
+  resolved "https://codeload.github.com/andreimc/react-native-transformable-image/tar.gz/0c50cdf3b115249628cc197795c4a8fe746c7cf0"
   dependencies:
     prop-types "^15.6.0"
     react-native-view-transformer "git://github.com/andreimc/react-native-view-transformer.git"
