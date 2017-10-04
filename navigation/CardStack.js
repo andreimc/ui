@@ -14,7 +14,7 @@ import { connectStyle } from '@shoutem/theme';
 
 import { SceneProvider } from './SceneProvider';
 
-import { RNCardStack } from './RNCardStack';
+import { CardStack as RNCardStack } from 'react-navigation';
 
 /**
  * A card navigation stack. This component renders a navigation

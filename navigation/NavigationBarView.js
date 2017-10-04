@@ -9,7 +9,6 @@ import {
   Animated,
   InteractionManager,
 } from 'react-native';
-import NavigationExperimental from 'react-native-navigation-experimental-compat';
 
 import { connectStyle } from '@shoutem/theme';
 import {
@@ -23,10 +22,6 @@ import {
 
 import composeChildren from './composeChildren';
 import { LinearGradient } from '../components/LinearGradient';
-
-const {
-  Header: NavigationHeader,
-} = NavigationExperimental;
 
 const navigationHeaderStyle = {
   backgroundColor: 'transparent',
