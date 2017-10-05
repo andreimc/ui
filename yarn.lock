@@ -1440,9 +1440,9 @@ react-native-scroller@0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/react-native-scroller/-/react-native-scroller-0.0.6.tgz#dea8c89bd1ca2d2445fbb6b3a90960df6c1767ff"
 
-react-native-share@~1.0.19:
-  version "1.0.22"
-  resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-1.0.22.tgz#55a09f9ecfddacfcb1a6481f511381f094ccb82e"
+react-native-share@~1.0.23:
+  version "1.0.23"
+  resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-1.0.23.tgz#6476f10d34e5274b9e0ef2c93def6c3a282ffe94"
 
 react-native-tab-view@^0.0.69:
   version "0.0.69"
